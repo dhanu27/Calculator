@@ -1,0 +1,45 @@
+.box{
+    width:400px;
+    height:350px;
+    background-color:lightgray;
+    margin:auto;
+}
+.heading{
+    width:98%;
+    background-color:black;
+    color:white;
+    margin:auto;
+    text-algin:center;
+/*     padding:0.1rem; */
+}
+#screen{
+    width:96%;
+    height:50px;
+    background-color:white;
+    margin:auto;
+}
+.bttn-panel{
+     width:96%;
+    height:250px;
+/*     background-color:white; */
+    margin:auto;
+    cursor:pointer;
+}
+.bttn,.operator{
+    margin-top:0.4rem;
+    display:inline-block;
+    width:24%;
+    height:40px;
+    font-size:2rem;
+/*     padding-left:0.2rem; */
+    background-color:white;
+    text-algin:center;
+}
+.bttn:last-child{
+    background-color:maroon;
+    color:white;
+    cursor:pointer;
+}
+.expand{
+    width:74%;
+}
